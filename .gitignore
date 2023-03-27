@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+linkmapfile/
+thunder_linkmap_cmp/
+linkMapCheck.py
+.vscode/
